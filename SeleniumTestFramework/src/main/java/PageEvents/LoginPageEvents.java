@@ -1,4 +1,4 @@
-package PageEvents;
+package java.PageEvents;
 
 import org.openqa.selenium.WebElement;
 

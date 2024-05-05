@@ -1,6 +1,7 @@
 package utilities;
 
 import org.openqa.selenium.WebElement;
+import org.testng.Assert;
 
 public class WebActions {
 	
@@ -18,5 +19,8 @@ public class WebActions {
 //		// TODO Auto-generated method stub
 //		
 //	}
+	public static void verifyOnRightPage( String ActualText,String ExpectedText){
+		Assert.assertEquals(ActualText, ExpectedText);
+	}
 
 }

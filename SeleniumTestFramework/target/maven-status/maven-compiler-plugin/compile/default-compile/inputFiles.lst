@@ -1,7 +1,9 @@
-C:\Users\pc\Desktop\Training\JavaSelenium\SeleniumTestFramework\src\main\java\baseSetup\BaseTest.java
-C:\Users\pc\Desktop\Training\JavaSelenium\SeleniumTestFramework\src\main\java\PageEvents\HomePage.java
-C:\Users\pc\Desktop\Training\JavaSelenium\SeleniumTestFramework\src\main\java\PageEvents\HomePageTest.java
-C:\Users\pc\Desktop\Training\JavaSelenium\SeleniumTestFramework\src\main\java\PageObjects\HomePageElements.java
-C:\Users\pc\Desktop\Training\JavaSelenium\SeleniumTestFramework\src\main\java\utilities\Constants.java
-C:\Users\pc\Desktop\Training\JavaSelenium\SeleniumTestFramework\src\main\java\utilities\ElementsFetch.java
-C:\Users\pc\Desktop\Training\JavaSelenium\SeleniumTestFramework\src\main\java\utilities\WebActions.java
+C:\Users\pc\Desktop\Training\Bitbucket\AutomationFrameworks\SeleniumTestFramework\src\main\java\baseSetup\BaseTest.java
+C:\Users\pc\Desktop\Training\Bitbucket\AutomationFrameworks\SeleniumTestFramework\src\main\java\PageEvents\HomePageEvents.java
+C:\Users\pc\Desktop\Training\Bitbucket\AutomationFrameworks\SeleniumTestFramework\src\main\java\PageEvents\LoginPageEvents.java
+C:\Users\pc\Desktop\Training\Bitbucket\AutomationFrameworks\SeleniumTestFramework\src\main\java\PageObjects\HomePageElements.java
+C:\Users\pc\Desktop\Training\Bitbucket\AutomationFrameworks\SeleniumTestFramework\src\main\java\PageObjects\LoginPageElements.java
+C:\Users\pc\Desktop\Training\Bitbucket\AutomationFrameworks\SeleniumTestFramework\src\main\java\utilities\Constants.java
+C:\Users\pc\Desktop\Training\Bitbucket\AutomationFrameworks\SeleniumTestFramework\src\main\java\utilities\ElementsFetch.java
+C:\Users\pc\Desktop\Training\Bitbucket\AutomationFrameworks\SeleniumTestFramework\src\main\java\utilities\RetryAnalyzer.java
+C:\Users\pc\Desktop\Training\Bitbucket\AutomationFrameworks\SeleniumTestFramework\src\main\java\utilities\WebActions.java

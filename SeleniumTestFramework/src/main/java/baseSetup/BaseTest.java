@@ -68,6 +68,7 @@ public class BaseTest {
 	@AfterTest
 	public void afterTest() {
 		extent.flush();
+		driver.quit();
 		
 	}
 }
